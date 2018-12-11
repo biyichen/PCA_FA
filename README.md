@@ -4,3 +4,4 @@
 ###### ![alt text](/des.png "Description goes here")
 ###### ![alt text](/col.png "Description goes here")
 #### The KMO value indicates that we have is pretty poor – just above miserable, however Bartlett’s test of sphericity with an associated p value of <0.001 indicates that we can proceed.
+###### ![alt text](/kmo.png "Description goes here")
