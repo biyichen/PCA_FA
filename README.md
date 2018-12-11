@@ -9,3 +9,7 @@
 ###### ![alt text](/com.png "Description goes here")
 #### Next comes a table showing the importance of each of the six principal components. Only the first two have eigenvalues over 1.00, and together these explain over 96% of the total variability in the data. This leads us to the conclusion that a two factor solution will probably be adequate.
 ###### ![alt text](/eig.png "Description goes here")
+#### These show the expected pattern, with high positive and high negative loadings on the first factor:
+###### ![alt text](/CM.png "Description goes here")
+#### The next table shows the extent to which the original correlation matrix can be reproduced from two factors:The small residuals show that there is very little difference between the reproduced correlations and the correlations actually observed between the variables. The two factor solution provides a very accurate summary of the relationships in the data.
+###### ![alt text](/RE.png "Description goes here")
