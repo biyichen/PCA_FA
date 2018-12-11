@@ -7,3 +7,5 @@
 ###### ![alt text](/kmo.png "Description goes here")
 #### Next is a table of estimated communalities (i.e. estimates of that part of the variability in each variable that is shared with others, and which is not due to measurement error or latent variable influence on the observed variable). The initial values can be ignored.
 ###### ![alt text](/com.png "Description goes here")
+#### Next comes a table showing the importance of each of the six principal components. Only the first two have eigenvalues over 1.00, and together these explain over 96% of the total variability in the data. This leads us to the conclusion that a two factor solution will probably be adequate.
+###### ![alt text](/eig.png "Description goes here")
